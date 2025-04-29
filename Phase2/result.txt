@@ -1,0 +1,3 @@
+Number of unique winners in Survivor (up to season 44): 42
+Number of unique winners in American Idol: 21
+Difference in number of unique winners: 21
