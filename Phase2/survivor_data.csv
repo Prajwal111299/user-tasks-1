@@ -1,0 +1,45 @@
+season,year,winner,runner_up,location,contestants,viewership,winner_age,winner_gender,winner_background
+1,2000,Richard Hatch,Kelly Wiglesworth,Borneo,16,51.7,39,Male,Corporate Trainer
+2,2001,Tina Wesson,Colby Donaldson,The Australian Outback,16,45.0,40,Female,Nurse
+3,2001,Ethan Zohn,Kim Johnson,Africa,16,27.3,27,Male,Professional Soccer Player
+4,2002,Vecepia Towery,Neleh Dennis,Marquesas,16,25.2,36,Female,Office Manager
+5,2002,Brian Heidik,Clay Jordan,Thailand,16,23.1,34,Male,Car Salesman
+6,2003,Jenna Morasca,Matthew Von Ertfelda,The Amazon,16,22.8,21,Female,Student
+7,2003,Sandra Diaz-Twine,Lillian Morris,Pearl Islands,16,21.2,29,Female,Office Assistant
+8,2004,Amber Brkich,Rob Mariano,All-Stars,18,24.8,25,Female,Administrative Assistant
+9,2004,Chris Daugherty,Twila Tanner,Vanuatu,18,19.6,33,Male,Construction Worker
+10,2005,Tom Westman,Katie Gallagher,Palau,20,20.1,41,Male,Firefighter
+11,2005,Danni Boatwright,Stephenie LaGrossa,Guatemala,18,18.3,30,Female,Sports Radio Host
+12,2006,Aras Baskauskas,Danielle DiLorenzo,Panama,16,16.8,24,Male,Yoga Instructor
+13,2006,Yul Kwon,Ozzy Lusth,Cook Islands,20,15.8,31,Male,Management Consultant
+14,2007,Earl Cole,Cassandra Franklin,Fiji,19,13.6,35,Male,Advertising Executive
+15,2007,Todd Herzog,Courtney Yates,China,16,15.2,22,Male,Flight Attendant
+16,2008,Parvati Shallow,Amanda Kimmel,Micronesia,20,13.6,25,Female,Boxer/Waitress
+17,2008,Bob Crowley,Susie Smith,Gabon,18,13.8,57,Male,Physics Teacher
+18,2009,J.T. Thomas,Stephen Fishbach,Tocantins,16,13.8,24,Male,Cattle Rancher
+19,2009,Natalie White,Russell Hantz,Samoa,20,13.5,26,Female,Pharmaceutical Sales
+20,2010,Sandra Diaz-Twine,Parvati Shallow,Heroes vs. Villains,20,14.2,29,Female,Office Assistant
+21,2010,Jud 'Fabio' Birza,Chase Rice,Nicaragua,20,13.6,21,Male,Student
+22,2011,Rob Mariano,Phillip Sheppard,Redemption Island,18,11.7,35,Male,Construction Worker
+23,2011,Sophie Clarke,Benjamin 'Coach' Wade,South Pacific,18,10.8,22,Female,Medical Student
+24,2012,Kim Spradlin,Sabrina Thompson,One World,18,10.2,29,Female,Bridal Shop Owner
+25,2012,Denise Stapley,Lisa Whelchel,Philippines,18,11.5,41,Female,Sex Therapist
+26,2013,John Cochran,Dawn Meehan,Caramoan,20,10.8,25,Male,Law Student
+27,2013,Tyson Apostol,Monica Culpepper,Blood vs. Water,20,10.2,34,Male,Former Pro Cyclist
+28,2014,Tony Vlachos,Woo Hwang,Cagayan,18,9.5,39,Male,Police Officer
+29,2014,Natalie Anderson,Jaclyn Schultz,San Juan del Sur,18,9.7,28,Female,Crossfit Coach
+30,2015,Mike Holloway,Carolyn Rivera,Worlds Apart,18,9.4,38,Male,Oil Driller
+31,2015,Jeremy Collins,Spencer Bledsoe,Cambodia,20,9.8,37,Male,Firefighter
+32,2016,Michele Fitzgerald,Aubry Bracco,Kaôh Rōng,18,9.1,24,Female,Bartender
+33,2016,Adam Klein,Hannah Shapiro,Millennials vs. Gen X,20,8.9,25,Male,Homeless Shelter Manager
+34,2017,Sarah Lacina,Brad Culpepper,Game Changers,20,8.4,32,Female,Police Officer
+35,2017,Ben Driebergen,Chrissy Hofbeck,Heroes vs. Healers vs. Hustlers,18,8.7,34,Male,Marine Veteran
+36,2018,Wendell Holland,Domenick Abbate,Ghost Island,20,8.5,33,Male,Furniture Designer
+37,2018,Nick Wilson,Mike White,David vs. Goliath,20,7.9,27,Male,Public Defender
+38,2019,Chris Underwood,Gavin Whitson,Edge of Extinction,18,7.2,25,Male,District Sales Manager
+39,2019,Tommy Sheehan,Dean Kowalski,Island of the Idols,20,6.4,26,Male,Teacher
+40,2020,Tony Vlachos,Natalie Anderson,Winners at War,20,8.2,39,Male,Police Officer
+41,2021,Erika Casupanan,Deshawn Radden,Fiji,18,5.4,32,Female,Communications Manager
+42,2022,Maryanne Oketch,Mike Turner,Fiji,18,5.1,24,Female,Seminary Student
+43,2022,Mike Gabler,Cassidy Clark,Fiji,18,4.9,52,Male,Heart Valve Specialist
+44,2023,Yam Yam Arocho,Heidi Lagares-Greenblatt,Fiji,18,4.8,36,Male,Salon Owner
